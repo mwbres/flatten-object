@@ -1,0 +1,25 @@
+{
+  "name": "flatten-object",
+  "version": "1.0.0",
+  "description": "Flatten an object",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwbres/flatten-object.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwbres/flatten-object/issues"
+  },
+  "homepage": "https://github.com/mwbres/flatten-object#readme",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
