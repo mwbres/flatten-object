@@ -1,7 +1,7 @@
 {
-  "name": "flatten-object",
+  "name": "flatten-nested-object",
   "version": "1.0.0",
-  "description": "Flatten an object",
+  "description": "Flatten a nested object",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
