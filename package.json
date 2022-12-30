@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/mwbres/flatten-object#readme",
   "devDependencies": {
-    "mocha": "^7.2.0"
+    "mocha": "^10.2.0"
   }
 }
